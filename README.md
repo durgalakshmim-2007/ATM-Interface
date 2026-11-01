@@ -67,6 +67,10 @@ java ATMInterface
 - Working with multiple Java classes.
 - Implementing authentication and validation.
 - Managing transactions using ArrayList.
+- ## 📸 Sample Output
+
+![ATM Interface Output](ATM-Output.png)(given at the beggining)
+
 
 ## 👩‍💻 Author
 
