@@ -69,7 +69,7 @@ java ATMInterface
 - Managing transactions using ArrayList.
 - ## 📸 Sample Output
 
-![ATM Interface Output](ATM-Output.png)(given at the beggining)
+![ATM Interface Output](ATM-Output.png)
 
 
 ## 👩‍💻 Author
