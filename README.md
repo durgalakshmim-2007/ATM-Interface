@@ -30,6 +30,7 @@ ATM-Interface/
 ├── ATMInterface.java
 ├── BankAccount.java
 ├── Transaction.java
+├── ATM-Output.png
 └── README.md
 ```
 
