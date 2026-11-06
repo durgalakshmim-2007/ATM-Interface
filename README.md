@@ -50,7 +50,8 @@ java ATMInterface
 
 ## 📸 Sample Output
 
-![ATM Interface Output](ATM-Output.png)
+![ATM Interface Output](ATM-Output.png) (mention above )
+
 
 ---
 
