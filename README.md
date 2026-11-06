@@ -94,6 +94,9 @@ Run the program:
 java NumberGuessingGame
 ```
 
+## 📸 Sample Output
+![Numberguessing game Output](Number Guessing Game.png)
+
 ## 🧠 Concepts Used
 
 - Classes and Objects
@@ -156,7 +159,7 @@ java PasswordGenerator
 
 ## 📸 Sample Output
 
-![Password Generator Output](Password-Output.png.png)
+![Password Generator Output](Password-Output.png)
 
 ---
 
