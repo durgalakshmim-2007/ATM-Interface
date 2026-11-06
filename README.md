@@ -95,7 +95,6 @@ java NumberGuessingGame
 ```
 
 ## 📸 Sample Output
-
 ![Number Guessing Game Output](Number%20Guessing%20Game.png)
 
 ## 🧠 Concepts Used
