@@ -80,10 +80,10 @@ java ATMInterface
 
 GitHub: [durgalakshmim-2007](https://github.com/durgalakshmim-2007)
 
----
+
 
 ⭐ If you find this project useful, feel free to explore the repository!
-
+---
 
 
 
@@ -134,6 +134,8 @@ Completed ✅
 Durgalakshmi M
 
 GitHub: @durgalakshmim-2007
+
+---
 
 TASK 3
 
@@ -193,7 +195,7 @@ GitHub: durgalakshmim-2007
 
 ⭐ Thank you for visiting this project!
 
-
+---
 
 
 
