@@ -95,7 +95,8 @@ java NumberGuessingGame
 ```
 
 ## 📸 Sample Output
-![Numberguessing game Output](Number Guessing Game.png)
+
+![Number Guessing Game Output](Number%20Guessing%20Game.png)
 
 ## 🧠 Concepts Used
 
@@ -160,7 +161,6 @@ java PasswordGenerator
 ## 📸 Sample Output
 
 ![Password Generator Output](Password-Output.png)
-
 ---
 
 # 🎯 Learning Outcomes
